@@ -1,7 +1,17 @@
 <?php
 
-$allowURL = 'https://prod.odial.net/api/getPublicLrdList';
-$blacklistURL = 'https://prod.odial.net/api/getPublicSpamTopList';
+$files = [
+  [
+    'file' => __DIR__.'/allow-orangetelephone.xml',
+    'type' => 'allow',
+    'url'  => 'https://prod.odial.net/api/getPublicLrdList'
+  ],
+  [
+    'file' => __DIR__.'/blacklist-orangetelephone.xml',
+    'type' => 'blacklist',
+    'url'  => 'https://prod.odial.net/api/getPublicSpamTopList'
+  ]
+];
 
 $params = [
   'token' => 'Zet4dSze%T!z',
@@ -29,6 +39,103 @@ function getData($url, $params = []) {
   
   return null;
 }
+
+
+
+
+
+foreach ($files as $file) {
+  echo PHP_EOL;
+  echo 'Update '.$file['file'].PHP_EOL;
+
+  $list = [];
+
+  if (file_exists($file['file'])) {
+    $xml = simplexml_load_file($file['file']);
+    
+    foreach ($xml->array->dict as $dict) {
+      $current = array_combine((array) $dict->key, (array) $dict->string);
+      $list[$current['number']] = $current;
+    }
+  }
+
+  echo ' > Currently : '.count($list).' numbers...'.PHP_EOL;
+
+  $data = getData($file['url'], $params);
+
+  foreach ($data['result'] as $d) {
+    if ($file['type'] === 'allow') {
+      $name = !empty($d['reason']) ? $d['name'].' - '.$d['reason'] : $d['name'];
+    } else {
+      $name = $d['mainSpamType'];
+    }
+
+    $list[$d['number']] = [
+      'addNational' => 'true',
+      'category'    => ($file['type'] === 'allow' ? '1' : '0'),
+      'number'      => $d['number'],
+      'title'       => 'OrangeTelephone - '.$name
+    ];
+  }
+
+  echo ' > Now : '.count($list).' numbers!'.PHP_EOL;
+
+  echo ' > Build XML file...'.PHP_EOL;
+
+  ksort($list);
+  
+  file_put_contents($file['file'], <<<'XML'
+  <?xml version="1.0" encoding="UTF-8"?>
+  <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+  <plist version="1.0">
+    <array>
+  
+  XML);
+
+  foreach ($list as $c) {
+    file_put_contents($file['file'], <<<XML
+        <dict>
+          <key>addNational</key>
+          <string>{$c['addNational']}</string>
+          <key>category</key>
+          <string>{$c['category']}</string>
+          <key>number</key>
+          <string>{$c['number']}</string>
+          <key>title</key>
+          <string>{$c['title']}</string>
+        </dict>
+
+    XML, FILE_APPEND);
+  }
+
+  file_put_contents($file['file'], <<<'XML'
+    </array>
+  </plist>
+  XML, FILE_APPEND);
+}
+
+
+
+die();
+
+
+
+
+
+
+
+
+
+
+
+$allowURL = 'https://prod.odial.net/api/getPublicLrdList';
+$blacklistURL = 'https://prod.odial.net/api/getPublicSpamTopList';
+
+
+
+
+
+
 
 
 
