@@ -27,7 +27,9 @@ jobs:
         with:
           files: |
             allow/allow-orangetelephone.xml
+            allow/patch/allow-orangetelephone-*.xml
             blacklist/blacklist-orangetelephone.xml
+            blacklist/patch/blacklist-orangetelephone-*.xml
       - id: push
         name: Push changes
         if: steps.verify-changed-files.outputs.files_changed == 'true'
