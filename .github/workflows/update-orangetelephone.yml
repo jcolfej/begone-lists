@@ -26,8 +26,8 @@ jobs:
         uses: tj-actions/verify-changed-files@v20
         with:
           files: |
-             allow-orangetelephone.xml
-             blacklist-orangetelephone.xml
+            allow/allow-orangetelephone.xml
+            blacklist/blacklist-orangetelephone.xml
       - id: push
         name: Push changes
         if: steps.verify-changed-files.outputs.files_changed == 'true'
