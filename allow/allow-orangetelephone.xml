@@ -2578,6 +2578,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33162556714</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33162556721</string>
       <key>title</key>
       <string>OrangeTelephone - Orange - Votre conseiller Orange vous appelle pour vous faire bénéficier de la fibre</string>
@@ -5258,6 +5268,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33270483266</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33270483268</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
@@ -7928,6 +7948,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33377473140</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33377473143</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
@@ -10279,6 +10309,16 @@
       <string>1</string>
       <key>number</key>
       <string>+33424483011</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33424483012</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
     </dict>
@@ -13479,6 +13519,16 @@
       <string>1</string>
       <key>number</key>
       <string>+33568493117</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33568493118</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
     </dict>
