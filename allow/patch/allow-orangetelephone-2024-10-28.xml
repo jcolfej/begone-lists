@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <array>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+333420</string>
+      <key>title</key>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33320068741</string>
+      <key>title</key>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33377006358</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33424001527</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange - Votre conseiller Orange vous appelle pour vous faire bénéficier de la Fibre</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33800106024</string>
+      <key>title</key>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33800665511</string>
+      <key>title</key>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33800665550</string>
+      <key>title</key>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33800665555</string>
+      <key>title</key>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33892702033</string>
+      <key>title</key>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33969326655</string>
+      <key>title</key>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33969360360</string>
+      <key>title</key>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
+    </dict>
+  </array>
+</plist>

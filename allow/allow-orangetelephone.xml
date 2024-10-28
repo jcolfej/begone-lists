@@ -10,7 +10,7 @@
       <key>number</key>
       <string>+333420</string>
       <key>title</key>
-      <string>OrangeTelephone - Nordnet - Numéro accueil</string>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
     </dict>
     <dict>
       <key>addNational</key>
@@ -6480,7 +6480,7 @@
       <key>number</key>
       <string>+33320068741</string>
       <key>title</key>
-      <string>OrangeTelephone - Nordnet - Numéro accueil</string>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
     </dict>
     <dict>
       <key>addNational</key>
@@ -6881,6 +6881,16 @@
       <string>+33377006356</string>
       <key>title</key>
       <string>OrangeTelephone - Orange - Votre conseiller Orange vous appelle pour vous faire bénéficier de la fibre</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33377006358</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
     </dict>
     <dict>
       <key>addNational</key>
@@ -9511,6 +9521,16 @@
       <string>+33424001484</string>
       <key>title</key>
       <string>OrangeTelephone - Orange - Votre conseiller Orange vous appelle pour vous faire bénéficier de la fibre</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33424001527</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange - Votre conseiller Orange vous appelle pour vous faire bénéficier de la Fibre</string>
     </dict>
     <dict>
       <key>addNational</key>
@@ -15950,7 +15970,7 @@
       <key>number</key>
       <string>+33800106024</string>
       <key>title</key>
-      <string>OrangeTelephone - Nordnet - Numéro accueil</string>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
     </dict>
     <dict>
       <key>addNational</key>
@@ -15960,7 +15980,7 @@
       <key>number</key>
       <string>+33800665511</string>
       <key>title</key>
-      <string>OrangeTelephone - Nordnet - Numéro accueil</string>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
     </dict>
     <dict>
       <key>addNational</key>
@@ -15970,7 +15990,7 @@
       <key>number</key>
       <string>+33800665550</string>
       <key>title</key>
-      <string>OrangeTelephone - Nordnet - Numéro accueil</string>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
     </dict>
     <dict>
       <key>addNational</key>
@@ -15980,7 +16000,7 @@
       <key>number</key>
       <string>+33800665555</string>
       <key>title</key>
-      <string>OrangeTelephone - Nordnet - Numéro accueil</string>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
     </dict>
     <dict>
       <key>addNational</key>
@@ -16010,7 +16030,7 @@
       <key>number</key>
       <string>+33892702033</string>
       <key>title</key>
-      <string>OrangeTelephone - Nordnet - Numéro accueil</string>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
     </dict>
     <dict>
       <key>addNational</key>
@@ -16040,7 +16060,7 @@
       <key>number</key>
       <string>+33969326655</string>
       <key>title</key>
-      <string>OrangeTelephone - Nordnet - Numéro accueil</string>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
     </dict>
     <dict>
       <key>addNational</key>
@@ -16050,7 +16070,7 @@
       <key>number</key>
       <string>+33969360360</string>
       <key>title</key>
-      <string>OrangeTelephone - Nordnet - Numéro accueil</string>
+      <string>OrangeTelephone - Nordnet - Accueil Nordnet</string>
     </dict>
     <dict>
       <key>addNational</key>
