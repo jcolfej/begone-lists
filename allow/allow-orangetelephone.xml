@@ -3528,6 +3528,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33162563920</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33162564101</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
@@ -4089,6 +4099,16 @@
       <string>1</string>
       <key>number</key>
       <string>+33270004166</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33270004637</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
     </dict>
@@ -7119,6 +7139,16 @@
       <string>1</string>
       <key>number</key>
       <string>+33377003105</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33377003367</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
     </dict>
@@ -10488,6 +10518,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33424004900</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33424005582</string>
       <key>title</key>
       <string>OrangeTelephone - Orange - Votre conseiller Orange vous appelle</string>
@@ -13661,6 +13701,16 @@
       <string>+33568002587</string>
       <key>title</key>
       <string>OrangeTelephone - Orange - Votre conseiller Orange vous appelle pour faire un bilan </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33568002726</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
     </dict>
     <dict>
       <key>addNational</key>
