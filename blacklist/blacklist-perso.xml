@@ -512,5 +512,25 @@
       <key>title</key>
       <string>SCAM</string>
     </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33666846383</string>
+      <key>title</key>
+      <string>SCAM</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33786208542</string>
+      <key>title</key>
+      <string>SCAM</string>
+    </dict>
   </array>
 </plist>
