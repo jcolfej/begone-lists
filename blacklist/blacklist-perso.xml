@@ -552,5 +552,65 @@
       <key>title</key>
       <string>SCAM</string>
     </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33377448585</string>
+      <key>title</key>
+      <string>SCAM</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33601630216</string>
+      <key>title</key>
+      <string>SCAM</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33759316590</string>
+      <key>title</key>
+      <string>SCAM</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33751599627</string>
+      <key>title</key>
+      <string>SCAM</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33644663058</string>
+      <key>title</key>
+      <string>SCAM</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33279769176</string>
+      <key>title</key>
+      <string>SCAM</string>
+    </dict>
   </array>
 </plist>
