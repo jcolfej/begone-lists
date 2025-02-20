@@ -3,13 +3,13 @@
 $files = [
   [
     'file'              => __DIR__.'/allow/allow-orangetelephone.xml',
-    'patchFilePattern'  => __DIR__.'/allow/patch/allow-orangetelephone-%s.xml',
+    'patchFilePattern'  => __DIR__.'/allow/patch/%s/%s/allow-orangetelephone-%s.xml',
     'type'              => 'allow',
     'url'               => 'https://prod.odial.net/api/getPublicLrdList'
   ],
   [
     'file'              => __DIR__.'/blacklist/blacklist-orangetelephone.xml',
-    'patchFilePattern'  => __DIR__.'/blacklist/patch/blacklist-orangetelephone-%s.xml',
+    'patchFilePattern'  => __DIR__.'/blacklist/patch/%s/%s/blacklist-orangetelephone-%s.xml',
     'type'              => 'blacklist',
     'url'               => 'https://prod.odial.net/api/getPublicSpamTopList'
   ]
@@ -53,14 +53,14 @@ foreach ($files as $file) {
   $list = [];
   $listPatch = [];
 
-  $file['patchFile'] = sprintf($file['patchFilePattern'], date('Y-m-d'));
+  $file['patchFile'] = sprintf($file['patchFilePattern'], date('Y'), date('m'), date('Y-m-d'));
 
   if (!is_dir(dirname($file['file']))) {
-    mkdir(dirname($file['file']));
+    mkdir(dirname($file['file']), $recursive = true);
   }
 
   if (!is_dir(dirname($file['patchFile']))) {
-    mkdir(dirname($file['patchFile']));
+    mkdir(dirname($file['patchFile']), $recursive = true);
   }
 
   if (file_exists($file['file'])) {
