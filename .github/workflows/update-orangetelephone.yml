@@ -2,7 +2,7 @@ name: Update OrangeTelephone lists
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 10 * * 1'
+    - cron: '0 10 * * *'
 
 jobs:
   update:
@@ -20,16 +20,14 @@ jobs:
           php-version: '8.4'
       - id: update
         name: Update
-        run: php update-orangetelephone.php
+        run: php scripts/update-orangetelephone.php
       - id: verify-changed-files
         name: Verify changed files
         uses: tj-actions/verify-changed-files@v20
         with:
           files: |
             allow/allow-orangetelephone.xml
-            allow/patch/*/*/allow-orangetelephone-*.xml
             blacklist/blacklist-orangetelephone.xml
-            blacklist/patch/*/*/blacklist-orangetelephone-*.xml
       - id: push
         name: Push changes
         if: steps.verify-changed-files.outputs.files_changed == 'true'

@@ -7,7 +7,3 @@
 | [allow-orangetelephone.xml](https://raw.githubusercontent.com/jcolfej/begone-lists/master/allow/allow-orangetelephone.xml) | allow | [List extracted from the OrangeTelephone application](https://apps.apple.com/fr/app/orange-t%C3%A9l%C3%A9phone/id1441313724) |
 | [blacklist-orangetelephone.xml](https://raw.githubusercontent.com/jcolfej/begone-lists/master/blacklist/blacklist-orangetelephone.xml) | blacklist | [List extracted from the OrangeTelephone application](https://apps.apple.com/fr/app/orange-t%C3%A9l%C3%A9phone/id1441313724) |
 | [blacklist-perso.xml](https://raw.githubusercontent.com/jcolfej/begone-lists/master/blacklist/blacklist-perso.xml) | blacklist | Personal list |
-
-## Update OrangeTelephone lists
-
-Run `update-orangetelephone.php` to update all OrangeTelephone lists.
