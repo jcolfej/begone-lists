@@ -56,11 +56,11 @@ foreach ($files as $file) {
   $file['patchFile'] = sprintf($file['patchFilePattern'], date('Y'), date('m'), date('Y-m-d'));
 
   if (!is_dir(dirname($file['file']))) {
-    mkdir(dirname($file['file']), $recursive = true);
+    mkdir(dirname($file['file']), 0777, true);
   }
 
   if (!is_dir(dirname($file['patchFile']))) {
-    mkdir(dirname($file['patchFile']), $recursive = true);
+    mkdir(dirname($file['patchFile']), 0777, true);
   }
 
   if (file_exists($file['file'])) {
