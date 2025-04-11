@@ -75,18 +75,18 @@ foreach ($files as $file) {
       $name = $d['mainSpamType'];
     }
 
-    $data = [
+    $begoneData = [
       'addNational' => 'true',
       'category'    => ($file['type'] === 'allow' ? '1' : '0'),
       'number'      => $d['number'],
       'title'       => 'OrangeTelephone - '.$name
     ];
 
-    if (!isset($list[$d['number']]) || sha1(serialize($list[$d['number']])) !== sha1(serialize($data))) {
+    if (!isset($list[$d['number']]) || sha1(serialize($list[$d['number']])) !== sha1(serialize($begoneData))) {
       $patch++;
     }
 
-    $list[$d['number']] = $data;
+    $list[$d['number']] = $begoneData;
   }
 
   echo ' > Now : '.count($list).' numbers!'.PHP_EOL;
