@@ -1,0 +1,56 @@
+name: Append Blacklist Perso
+on:
+  workflow_dispatch:
+    inputs:
+      addNational:
+        description: Add national number
+        required: true
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+      number:
+        description: Number
+        required: true
+        type: string
+      title:
+        description: Title
+        required: true
+        default: 'SCAM'
+        type: string
+
+jobs:
+  append:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v4
+      - id: setup
+        name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.4'
+      - id: append
+        name: Append
+        run: php scripts/append-blacklist-perso.php "${{ github.event.inputs.addNational }}" "${{ github.event.inputs.number }}" "${{ github.event.inputs.title }}"
+      - id: verify-changed-files
+        name: Verify changed files
+        uses: tj-actions/verify-changed-files@v20
+        with:
+          files: |
+            blacklist/blacklist-perso.xml
+      - id: push
+        name: Push changes
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
+        env:
+          CHANGED_FILES: ${{ steps.verify-changed-files.outputs.changed_files }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ${CHANGED_FILES}
+          git commit -m "Add ${{ github.event.inputs.number }} to perso blacklist"
+          git push
