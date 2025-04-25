@@ -818,6 +818,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33162004287</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33162004408</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
@@ -13058,6 +13068,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33270498027</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33270498029</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
@@ -19648,6 +19668,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33377487944</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33377488180</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
@@ -21409,6 +21439,16 @@
       <string>1</string>
       <key>number</key>
       <string>+33424008670</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33424008671</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
     </dict>
