@@ -58,6 +58,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33101010101</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33139271559</string>
       <key>title</key>
       <string>OrangeTelephone - GRDF -  </string>
@@ -7078,6 +7088,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33202020202</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33223254819</string>
       <key>title</key>
       <string>OrangeTelephone - GRDF -  </string>
@@ -13841,6 +13861,16 @@
       <string>+33296473255</string>
       <key>title</key>
       <string>OrangeTelephone - GRDF - RDV Technicien</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33303030303</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
     </dict>
     <dict>
       <key>addNational</key>
@@ -20628,6 +20658,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33404040404</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33424001181</string>
       <key>title</key>
       <string>OrangeTelephone - Orange - Votre conseiller Orange vous appelle pour vous faire bénéficier de la fibre</string>
@@ -27381,6 +27421,16 @@
       <string>+33499549757</string>
       <key>title</key>
       <string>OrangeTelephone - GRDF -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33505050505</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
     </dict>
     <dict>
       <key>addNational</key>
