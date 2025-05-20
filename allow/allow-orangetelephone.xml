@@ -41308,6 +41308,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33682148966</string>
+      <key>title</key>
+      <string>OrangeTelephone - QA Lannion - Long call reason : azertyuiop^qsdfghjklwxcvbn,</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33757591457</string>
       <key>title</key>
       <string>OrangeTelephone - Télésurveillance - Alarme intrusion </string>
