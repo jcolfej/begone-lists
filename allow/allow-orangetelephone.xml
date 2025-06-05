@@ -448,6 +448,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33162001700</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33162001702</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  Votre conseiller Orange vous appelle</string>
@@ -27199,6 +27209,16 @@
       <string>1</string>
       <key>number</key>
       <string>+33424008671</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33424008790</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
     </dict>
