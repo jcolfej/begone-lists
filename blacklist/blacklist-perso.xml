@@ -538,6 +538,16 @@
       <key>category</key>
       <string>0</string>
       <key>number</key>
+      <string>+33695029135</string>
+      <key>title</key>
+      <string>Ping Call</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
       <string>+33695772900</string>
       <key>title</key>
       <string>SCAM</string>
