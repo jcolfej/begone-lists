@@ -52768,6 +52768,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33682190640</string>
+      <key>title</key>
+      <string>OrangeTelephone - FJ. LEVÉE Test - Ceci est un test fait par FJ. LEVÉE</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33757591457</string>
       <key>title</key>
       <string>OrangeTelephone - Télésurveillance - Alarme intrusion </string>
@@ -54471,6 +54481,16 @@
       <string>+33948486513</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33967190713</string>
+      <key>title</key>
+      <string>OrangeTelephone - Welcome to the Twilight Zone - Welcome to the Twilight Zone</string>
     </dict>
     <dict>
       <key>addNational</key>
