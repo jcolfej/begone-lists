@@ -29,6 +29,8 @@ jobs:
       - id: checkout
         name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: master
       - id: setup
         name: Setup PHP
         uses: shivammathur/setup-php@v2
