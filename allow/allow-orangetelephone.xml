@@ -53878,6 +53878,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33681634513</string>
+      <key>title</key>
+      <string>OrangeTelephone - QA Lannion - Bon anniversaire Orange Téléphone</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33681767410</string>
       <key>title</key>
       <string>OrangeTelephone - QA Lannion - Call reason for QA Lannion</string>
@@ -53901,6 +53911,16 @@
       <string>+33682190640</string>
       <key>title</key>
       <string>OrangeTelephone - FJ. LEVÉE Test - Ceci est un test fait par FJ. LEVÉE</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33682404713</string>
+      <key>title</key>
+      <string>OrangeTelephone - QA Lannion - Bon anniversaire Orange Téléphone</string>
     </dict>
     <dict>
       <key>addNational</key>
