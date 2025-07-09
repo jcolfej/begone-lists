@@ -56358,6 +56358,26 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33978880111</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33978880121</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33978880131</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
@@ -56378,6 +56398,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33978880153</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33978880155</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
@@ -56389,6 +56419,16 @@
       <string>1</string>
       <key>number</key>
       <string>+33978880163</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33978880179</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
     </dict>
@@ -56438,6 +56478,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33978880223</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33978880224</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
@@ -56449,6 +56499,16 @@
       <string>1</string>
       <key>number</key>
       <string>+33978880243</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33978880259</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
     </dict>
@@ -56488,6 +56548,16 @@
       <key>category</key>
       <string>1</string>
       <key>number</key>
+      <string>+33978880312</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
       <string>+33978880325</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
@@ -56499,6 +56569,16 @@
       <string>1</string>
       <key>number</key>
       <string>+33978880330</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33978880337</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
     </dict>
@@ -56539,6 +56619,16 @@
       <string>1</string>
       <key>number</key>
       <string>+33978880429</string>
+      <key>title</key>
+      <string>OrangeTelephone - Orange -  </string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>1</string>
+      <key>number</key>
+      <string>+33978880446</string>
       <key>title</key>
       <string>OrangeTelephone - Orange -  </string>
     </dict>
