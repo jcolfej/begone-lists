@@ -352,5 +352,25 @@
       <key>title</key>
       <string>Data Gouv - OnOff</string>
     </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33972048###</string>
+      <key>title</key>
+      <string>Data Gouv - OnOff</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33972049###</string>
+      <key>title</key>
+      <string>Data Gouv - OnOff</string>
+    </dict>
   </array>
 </plist>
