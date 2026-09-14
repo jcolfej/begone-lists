@@ -8,6 +8,16 @@
       <key>category</key>
       <string>0</string>
       <key>number</key>
+      <string>+33162046###</string>
+      <key>title</key>
+      <string>Data Gouv - Kavkom</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
       <string>+33162281###</string>
       <key>title</key>
       <string>Data Gouv - Kavkom</string>
@@ -428,6 +438,16 @@
       <key>category</key>
       <string>0</string>
       <key>number</key>
+      <string>+33270327###</string>
+      <key>title</key>
+      <string>Data Gouv - Kavkom</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
       <string>+33270329###</string>
       <key>title</key>
       <string>Data Gouv - Kavkom</string>
@@ -549,6 +569,16 @@
       <string>0</string>
       <key>number</key>
       <string>+33377329###</string>
+      <key>title</key>
+      <string>Data Gouv - Kavkom</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33377466###</string>
       <key>title</key>
       <string>Data Gouv - Kavkom</string>
     </dict>
@@ -709,6 +739,16 @@
       <string>0</string>
       <key>number</key>
       <string>+33424285###</string>
+      <key>title</key>
+      <string>Data Gouv - Kavkom</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33424286###</string>
       <key>title</key>
       <string>Data Gouv - Kavkom</string>
     </dict>
@@ -1018,6 +1058,16 @@
       <key>category</key>
       <string>0</string>
       <key>number</key>
+      <string>+33568416###</string>
+      <key>title</key>
+      <string>Data Gouv - Kavkom</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
       <string>+33590160###</string>
       <key>title</key>
       <string>Data Gouv - Kavkom</string>
@@ -1209,6 +1259,16 @@
       <string>0</string>
       <key>number</key>
       <string>+33948262###</string>
+      <key>title</key>
+      <string>Data Gouv - Kavkom</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33948263###</string>
       <key>title</key>
       <string>Data Gouv - Kavkom</string>
     </dict>
