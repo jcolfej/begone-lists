@@ -198,6 +198,16 @@
       <key>category</key>
       <string>0</string>
       <key>number</key>
+      <string>+33270401###</string>
+      <key>title</key>
+      <string>Data Gouv - Ubicentrex</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
       <string>+33270479###</string>
       <key>title</key>
       <string>Data Gouv - Ubicentrex</string>
@@ -269,6 +279,16 @@
       <string>0</string>
       <key>number</key>
       <string>+33377272###</string>
+      <key>title</key>
+      <string>Data Gouv - Ubicentrex</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33377285###</string>
       <key>title</key>
       <string>Data Gouv - Ubicentrex</string>
     </dict>
@@ -428,6 +448,16 @@
       <key>category</key>
       <string>0</string>
       <key>number</key>
+      <string>+33424327###</string>
+      <key>title</key>
+      <string>Data Gouv - Ubicentrex</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
       <string>+33424434###</string>
       <key>title</key>
       <string>Data Gouv - Ubicentrex</string>
@@ -569,6 +599,16 @@
       <string>0</string>
       <key>number</key>
       <string>+33568313###</string>
+      <key>title</key>
+      <string>Data Gouv - Ubicentrex</string>
+    </dict>
+    <dict>
+      <key>addNational</key>
+      <string>true</string>
+      <key>category</key>
+      <string>0</string>
+      <key>number</key>
+      <string>+33568417###</string>
       <key>title</key>
       <string>Data Gouv - Ubicentrex</string>
     </dict>
